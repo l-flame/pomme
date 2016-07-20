@@ -179,3 +179,7 @@ ENV/
 ### KDevelop4 template
 *.kdev4
 .kdev4/
+.gitignore
+.idea/
+core/
+main.py
